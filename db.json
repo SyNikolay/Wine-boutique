@@ -1,0 +1,68 @@
+{
+  "people": [
+    {
+      "name": "Николай",
+      "surname": "Сысоев",
+      "sex": "Мужской",
+      "age": "30"
+    }
+  ],
+  "wine": [
+    {
+      "name": "Koonunga Hill Shiraz",
+      "year": "2019 г.",
+      "country": "Австралия",
+      "image": "https://static.simplewine.ru/upload/iblock/4e4/4e43ea7bec7e4e5bd84b406abf682db4.png@x1000",
+      "price": "2 230 ₽"
+    },
+    {
+      "name": "Bin 50 Shiraz",
+      "year": "2020 г.",
+      "country": "Австралия",
+      "image": "https://static.simplewine.ru/upload/iblock/c34/c34476fbef0d78bb54854514f5983725.png@x1000",
+      "price": "1 370 ₽"
+    },
+    {
+      "name": "Bin 50 Shiraz",
+      "year": "2020 г.",
+      "country": "Австралия",
+      "image": "https://static.simplewine.ru/upload/iblock/c34/c34476fbef0d78bb54854514f5983725.png@x1000",
+      "price": "1 370 ₽"
+    },
+    {
+      "name": "Koonunga Hill Shiraz",
+      "year": "2019 г.",
+      "country": "Австралия",
+      "image": "https://static.simplewine.ru/upload/iblock/4e4/4e43ea7bec7e4e5bd84b406abf682db4.png@x1000",
+      "price": "2 230 ₽"
+    },
+    {
+      "name": "Koonunga Hill Shiraz",
+      "year": "2019 г.",
+      "country": "Австралия",
+      "image": "https://static.simplewine.ru/upload/iblock/4e4/4e43ea7bec7e4e5bd84b406abf682db4.png@x1000",
+      "price": "2 230 ₽"
+    },
+    {
+      "name": "Bin 50 Shiraz",
+      "year": "2020 г.",
+      "country": "Австралия",
+      "image": "https://static.simplewine.ru/upload/iblock/c34/c34476fbef0d78bb54854514f5983725.png@x1000",
+      "price": "1 370 ₽"
+    },
+    {
+      "name": "Bin 50 Shiraz",
+      "year": "2020 г.",
+      "country": "Австралия",
+      "image": "https://static.simplewine.ru/upload/iblock/c34/c34476fbef0d78bb54854514f5983725.png@x1000",
+      "price": "1 370 ₽"
+    },
+    {
+      "name": "Koonunga Hill Shiraz",
+      "year": "2019 г.",
+      "country": "Австралия",
+      "image": "https://static.simplewine.ru/upload/iblock/4e4/4e43ea7bec7e4e5bd84b406abf682db4.png@x1000",
+      "price": "2 230 ₽"
+    }
+  ]
+}

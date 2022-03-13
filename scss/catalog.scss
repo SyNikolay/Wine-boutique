@@ -1,0 +1,45 @@
+.header-catalog {
+    background-color: $priv-color;
+    padding: 0px 0px 30px 0px;
+}
+.main-catalog {
+   background-color: $desc-color;
+   padding: 60px 0px 0px 0px;
+}
+.catalog-wine {
+    padding: 0px 0px 0px 0px;
+    @extend %container;
+}
+.catalog-group {
+    border: none;
+}
+.catalog-wine-cards {
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: repeat(4,1fr);
+    row-gap: 25px;
+    @extend %container;
+    padding-bottom: 60px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    background-color: #fcfcfc;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    @extend %container;
+}
+.wine-image {
+    margin: 0px 0px 15px 0px;
+}
+.button-show {
+    display: block;
+    border: none;
+    @extend %buttons;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
